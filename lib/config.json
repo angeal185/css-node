@@ -1,0 +1,24 @@
+{
+  "dest": "/ncss/dist/app.css",
+  "globals": "/ncss/globals",
+  "mixins": "/ncss/mixins",
+  "helpers": "/ncss/helpers",
+  "verbose": true,
+  "write_file": false,
+  "sort_order": false,
+  "sort_properties": false,
+  "imports": [
+    "example.css"
+  ],
+  "includes": [
+    "/ncss/includes/index.js"
+  ],
+  "watch": {
+    "enabled": false,
+    "delay": 0,
+    "interval": 5007,
+    "files": [
+      "/ncss/includes/index.js"
+    ]
+  }
+}

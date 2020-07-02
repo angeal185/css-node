@@ -1,0 +1,22 @@
+{
+  "name": "css-node",
+  "version": "1.0.0-beta",
+  "description": "a fast nodejs css pre-processor that lets you use javascript to create css",
+  "main": "./index.js",
+  "scripts": {
+    "build": "node -e 'require(\"./index\").build()'",
+    "init": "node -e 'require(\"./index\").init()'",
+    "watch": "node -e 'require(\"./index\").watch()'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeal185/css-node.git"
+  },
+  "keywords": ["preprocessor", "css-preprocessor", "javascript", "css-compiler", "css"],
+  "author": "ben eaves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angeal185/css-node/issues"
+  },
+  "homepage": "https://github.com/angeal185/css-node#readme"
+}
