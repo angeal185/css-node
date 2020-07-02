@@ -1,6 +1,6 @@
 {
   "name": "css-node",
-  "version": "1.0.0-beta",
+  "version": "1.0.0",
   "description": "a fast nodejs css pre-processor that lets you use javascript to create css",
   "main": "./index.js",
   "scripts": {

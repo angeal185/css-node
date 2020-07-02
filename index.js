@@ -1,5 +1,5 @@
 module.exports = {
-  build: require('./lib'),
   init: require('./lib/init'),
+  build: require('./lib'),
   watch: require('./lib/watch')
 }
