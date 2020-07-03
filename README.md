@@ -108,15 +108,15 @@ the starters could also be used as a basic reference for code format
 
 css-node currently has starter include files for the following frameworks:
 
-* [bootstrap v4.5.0](https://github.com/angeal185/css-node-frameworks/bootstrap)
+* [bootstrap](https://github.com/angeal185/css-node-frameworks/bootstrap)
 * [skeleton](https://github.com/angeal185/css-node-frameworks/skeleton)
 * [spectre](https://github.com/angeal185/css-node-frameworks/spectre)
 * [UIkit](https://github.com/angeal185/css-node-frameworks/UIkit)
 * [mini](https://github.com/angeal185/css-node-frameworks/mini)
 * [bulma](https://github.com/angeal185/css-node-frameworks/bulma)
-* [milligram v1.4.1](https://github.com/angeal185/css-node-frameworks/milligram)
-* [pure v2.0.3](https://github.com/angeal185/css-node-frameworks/pure)
-* [picnic v6.5.0](https://github.com/angeal185/css-node-frameworks/picnic)
+* [milligram](https://github.com/angeal185/css-node-frameworks/milligram)
+* [pure](https://github.com/angeal185/css-node-frameworks/pure)
+* [picnic](https://github.com/angeal185/css-node-frameworks/picnic)
 
 
 [Index](#documentation)
