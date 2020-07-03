@@ -979,7 +979,7 @@ h.entries({
 [Index](#documentation)
 
 
-[cd-img]: https://app.codacy.com/project/badge/Grade/d0ce4b5a5c874755bb65af1e2d6dfa87
+[cd-img]: https://app.codacy.com/project/badge/Grade/ff0a2a7c731a43a7b637051133b7675c
 [npm-img]: https://badgen.net/npm/v/css-node?style=flat-square
 [dep-img]:https://badgen.net/david/dep/angeal185/css-node?style=flat-square
 [sz-img]:https://badgen.net/packagephobia/publish/css-node?style=flat-square
