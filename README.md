@@ -10,6 +10,7 @@ a fast nodejs css pre-processor that lets you use javascript to create css
 - [About](#about)
 - [Installation](#installation)
 - [Setup](#setup)
+- [Starters](#starters)
 - [Rules](#rules)
 - [Config](#config)
 - [Imports](#imports)
@@ -18,7 +19,6 @@ a fast nodejs css pre-processor that lets you use javascript to create css
 - [Mixins](#mixins)
 - [Helpers](#helpers)
 - [css-node helpers](#css-node-helpers)
-- [Extend](#extend)
 
 # About
 
@@ -97,6 +97,27 @@ watch files and build on change
 ```bash
 $ npm run watch
 ```
+[Index](#documentation)
+
+# Starters
+
+css-node starters are css files that have been converted to js for use
+in includes.
+
+the starters could also be used as a basic reference for code format
+
+css-node currently has starter include files for the following frameworks:
+
+* [bootstrap v4.5.0](https://github.com/angeal185/css-node-frameworks/bootstrap)
+* [skeleton](https://github.com/angeal185/css-node-frameworks/skeleton)
+* [spectre](https://github.com/angeal185/css-node-frameworks/spectre)
+* [UIkit](https://github.com/angeal185/css-node-frameworks/UIkit)
+* [mini](https://github.com/angeal185/css-node-frameworks/mini)
+* [bulma](https://github.com/angeal185/css-node-frameworks/bulma)
+* [milligram v1.4.1](https://github.com/angeal185/css-node-frameworks/milligram)
+* [pure v2.0.3](https://github.com/angeal185/css-node-frameworks/pure)
+* [picnic v6.5.0](https://github.com/angeal185/css-node-frameworks/picnic)
+
 
 [Index](#documentation)
 
