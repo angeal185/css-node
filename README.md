@@ -108,15 +108,15 @@ the starters could also be used as a basic reference for code format
 
 css-node currently has starter include files for the following frameworks:
 
-* [bootstrap](https://github.com/angeal185/css-node-frameworks/bootstrap)
-* [skeleton](https://github.com/angeal185/css-node-frameworks/skeleton)
-* [spectre](https://github.com/angeal185/css-node-frameworks/spectre)
-* [UIkit](https://github.com/angeal185/css-node-frameworks/UIkit)
-* [mini](https://github.com/angeal185/css-node-frameworks/mini)
-* [bulma](https://github.com/angeal185/css-node-frameworks/bulma)
-* [milligram](https://github.com/angeal185/css-node-frameworks/milligram)
-* [pure](https://github.com/angeal185/css-node-frameworks/pure)
-* [picnic](https://github.com/angeal185/css-node-frameworks/picnic)
+* [bootstrap](https://github.com/angeal185/css-node-frameworks/tree/master/bootstrap)
+* [skeleton](https://github.com/angeal185/css-node-frameworks/tree/master/skeleton)
+* [spectre](https://github.com/angeal185/css-node-frameworks/tree/master/spectre)
+* [UIkit](https://github.com/angeal185/css-node-frameworks/tree/master/UIkit)
+* [mini](https://github.com/angeal185/css-node-frameworks/tree/master/mini)
+* [bulma](https://github.com/angeal185/css-node-frameworks/tree/master/bulma)
+* [milligram](https://github.com/angeal185/css-node-frameworks/tree/master/milligram)
+* [pure](https://github.com/angeal185/css-node-frameworks/tree/master/pure)
+* [picnic](https://github.com/angeal185/css-node-frameworks/tree/master/picnic)
 
 
 [Index](#documentation)
