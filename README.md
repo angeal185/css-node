@@ -119,7 +119,7 @@ css-node currently has starter include files for the following frameworks:
 * [pure](https://github.com/angeal185/css-node-frameworks/tree/master/pure)
 * [picnic](https://github.com/angeal185/css-node-frameworks/tree/master/picnic)
 
-* [animate 4.1.0](https://github.com/angeal185/css-node-frameworks/tree/master/animate)
+* [animate](https://github.com/angeal185/css-node-frameworks/tree/master/animate)
 
 [Index](#documentation)
 
