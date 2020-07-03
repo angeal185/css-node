@@ -109,7 +109,7 @@ the starters could also be used as a basic reference for code format
 css-node currently has starter include files for the following frameworks:
 
 * [bootstrap](https://github.com/angeal185/css-node-frameworks/tree/master/bootstrap)
-* [materialize V1.0.0](https://github.com/angeal185/css-node-frameworks/tree/master/materialize)
+* [materialize](https://github.com/angeal185/css-node-frameworks/tree/master/materialize)
 * [skeleton](https://github.com/angeal185/css-node-frameworks/tree/master/skeleton)
 * [spectre](https://github.com/angeal185/css-node-frameworks/tree/master/spectre)
 * [UIkit](https://github.com/angeal185/css-node-frameworks/tree/master/UIkit)
